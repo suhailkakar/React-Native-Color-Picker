@@ -1,0 +1,107 @@
+{
+  "_from": "react-native-hsv-color-picker",
+  "_id": "react-native-hsv-color-picker@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-2HproSpw9vily2uQ/Bo65sWk05kfQUoNZaA37q3jJI6rPlBf8IERtyq5tniEOogvYhDwPRqkvslgGu3Hzev7zw==",
+  "_location": "/react-native-hsv-color-picker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-hsv-color-picker",
+    "name": "react-native-hsv-color-picker",
+    "escapedName": "react-native-hsv-color-picker",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-hsv-color-picker/-/react-native-hsv-color-picker-1.0.2.tgz",
+  "_shasum": "91ede411a6828408c20b48b69f3c61ce3977eb24",
+  "_spec": "react-native-hsv-color-picker",
+  "_where": "/home/kakar/Downloads/ColorPickerApp-master",
+  "author": {
+    "name": "Yuan Fu"
+  },
+  "bugs": {
+    "url": "https://github.com/yuanfux/react-native-hsv-color-picker/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "chroma-js": "^2.1.0",
+    "expo-linear-gradient": "^8.0.0"
+  },
+  "deprecated": false,
+  "description": "a react native HSV(hue, saturation, value) color picker",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/runtime": "^7.3.1",
+    "babel-eslint": "^10.0.1",
+    "babel-jest": "^24.0.0",
+    "babel-preset-expo": "~8.0.0",
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.14.0",
+    "enzyme-to-json": "^3.3.5",
+    "escape-regex-string": "^1.0.6",
+    "eslint": "^5.13.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4",
+    "eslint-plugin-react-native": "^3.6.0",
+    "expo": "~36.0.0",
+    "expo-keep-awake": "^8.0.0",
+    "jest": "^24.0.0",
+    "jest-enzyme": "^7.0.2",
+    "jest-expo": "^36.0.1",
+    "jsdom": "^15.1.1",
+    "react": "~16.9.0",
+    "react-dom": "~16.9.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.1.tar.gz"
+  },
+  "files": [
+    "src/*"
+  ],
+  "homepage": "https://github.com/yuanfux/react-native-hsv-color-picker",
+  "jest": {
+    "preset": "jest-expo",
+    "snapshotSerializers": [
+      "enzyme-to-json/serializer"
+    ],
+    "setupFilesAfterEnv": [
+      "<rootDir>/setup-tests.js"
+    ],
+    "modulePathIgnorePatterns": [
+      "<rootDir>/demo/"
+    ],
+    "collectCoverage": true
+  },
+  "keywords": [
+    "react native",
+    "react-native",
+    "color",
+    "picker",
+    "color picker",
+    "hsv color picker"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "react-native-hsv-color-picker",
+  "peerDependencies": {
+    "prop-types": "^15.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanfux/react-native-hsv-color-picker.git"
+  },
+  "scripts": {
+    "eject": "npx expo-cli eject --config \"./demo/app.json\"",
+    "start": "npx expo-cli start --config \"./demo/app.json\" -c",
+    "test": "npm run test:lint && npx jest",
+    "test:lint": "npx eslint \"src/*.js\""
+  },
+  "version": "1.0.2"
+}

@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      "react-native-slider-color-picker@2.1.1",
+      "/home/kakar/Downloads/ColorPickerApp-master"
+    ]
+  ],
+  "_from": "react-native-slider-color-picker@2.1.1",
+  "_id": "react-native-slider-color-picker@2.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-bFImnWE62BdXzdyQ/vIaFlG13gGG8v+307XAHtg879XpPYojkl0HwA89tZtg27XazUJpuKnNwu8gbaAfR2h8Dg==",
+  "_location": "/react-native-slider-color-picker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-slider-color-picker@2.1.1",
+    "name": "react-native-slider-color-picker",
+    "escapedName": "react-native-slider-color-picker",
+    "rawSpec": "2.1.1",
+    "saveSpec": null,
+    "fetchSpec": "2.1.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-slider-color-picker/-/react-native-slider-color-picker-2.1.1.tgz",
+  "_spec": "2.1.1",
+  "_where": "/home/kakar/Downloads/ColorPickerApp-master",
+  "author": {
+    "name": "Li Zheng"
+  },
+  "bugs": {
+    "url": "https://github.com/flyskywhy/react-native-slider-color-picker/issues"
+  },
+  "dependencies": {
+    "immutable": "^3.8.2",
+    "prop-types": "^15.5.10",
+    "react-native-smooth-slider": "1.3.2",
+    "tinycolor2": "^1.4.1"
+  },
+  "description": "A color picker on 3 gradient image HSV palette slider",
+  "funding": [
+    {
+      "type": "individual",
+      "url": "https://Alipay/flyskywhy@gmail.com"
+    },
+    {
+      "type": "individual",
+      "url": "https://EthAddress/0xd02fa2738dcbba988904b5a9ef123f7a957dbb3e"
+    }
+  ],
+  "homepage": "https://github.com/flyskywhy/react-native-slider-color-picker#readme",
+  "keywords": [
+    "android",
+    "color",
+    "color-picker",
+    "gradient",
+    "hsb",
+    "hsv",
+    "ios",
+    "palette",
+    "react-native",
+    "react-native-gesture-handler",
+    "react-native-smooth-slider",
+    "rgb",
+    "slider"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-slider-color-picker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyskywhy/react-native-slider-color-picker.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.1.1"
+}
