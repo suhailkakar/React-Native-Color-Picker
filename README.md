@@ -45,3 +45,7 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Code (`git push -u origin master `)
 5. Open a Pull Request
 
+## License
+
+React Native Color Picker is open source software licensed under the MIT License
+
