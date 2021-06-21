@@ -33,7 +33,62 @@ A **color picker** is a graphical user interface widget, usually found within gr
      ```sh
    expo start
    ```
-   
+  
+### Folder Structure
+
+
+```bash
+📦  React-Native-Color-Picker-main
+├── App.js
+├── app.json
+├── assets
+│   ├── adaptive-icon.png
+│   ├── favicon.png
+│   ├── icon.png
+│   └── splash.png
+├── babel.config.js
+├── components
+│   ├── ColorPickerScreen.js
+│   └── Saturation.js
+├── Other
+│   ├── react-native-color-wheel
+│   │   ├── ColorWheel.js
+│   │   ├── color-wheel.png
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── screenshot.png
+│   │   └── works-with-yeti.png
+│   ├── react-native-hsv-color-picker
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── src
+│   │       ├── HsvColorPicker.js
+│   │       ├── HuePicker.js
+│   │       ├── index.js
+│   │       ├── SaturationValuePicker.js
+│   │       └── utils.js
+│   └── react-native-slider-color-picker
+│       ├── 1.png
+│       ├── brightness_mask.png
+│       ├── h.js
+│       ├── index.js
+│       ├── LICENSE
+│       ├── package.json
+│       ├── rainbow_slider.png
+│       ├── README.md
+│       ├── saturation_mask.png
+│       ├── saturation_mask.svg
+│       ├── Screenshots
+│       │   └── basic_android.png
+│       ├── s.js
+│       └── v.js
+├── package.json
+├── package-lock.json
+└── README.md
+```
+
+
    
 
 ### Contributing
