@@ -7,3 +7,29 @@ A **color picker** is a graphical user interface widget, usually found within gr
 
 ### Built With
 * [React Native](https://reactnative.dev/)
+
+
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/suhailkakar/React-Native-Color-Picker
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+   or 
+   
+     ```sh
+   yarn install
+   ```
+3. Run the app
+   ```sh
+   npm start 
+   ```
+   or
+     ```sh
+   expo start
+   ```
