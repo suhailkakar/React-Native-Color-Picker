@@ -1,3 +1,5 @@
 <p align="center">
     <img width="150" height="auto" src="https://i.ibb.co/18hnGK6/719747.png" alt="React Native Color Picker App" />
 </p>
+
+A **color picker** is a graphical user interface widget, usually found within graphics software or online, used to select colors and sometimes to create color schemes. A color picker is used to select and adjust color values. In graphic design and image editing, users typically choose colors via an interface with a visual representation of a color—organized with quasi-perceptually-relevant hue, saturation and lightness dimensions (HSL) – instead of keying in alphanumeric text values. Because color appearance depends on comparison of neighboring colors (see color vision), many interfaces attempt to clarify the relationships between colors.
