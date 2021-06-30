@@ -24,7 +24,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.suhailkakar.ccolorpickerapp"
+      "package": "com.kakar.colorpicker"
     },
     "web": {
       "favicon": "./assets/favicon.png"
