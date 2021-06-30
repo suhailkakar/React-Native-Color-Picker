@@ -8,7 +8,7 @@ import tinycolor from 'tinycolor2';
 import colorsys from 'colorsys';
 import { MaterialCommunityIcons, MaterialIcons, Ionicons } from '@expo/vector-icons';
 import { Path, Svg } from 'react-native-svg';
-import ASdads from './Saturation';
+import Saturation from './Saturation';
 
 export default function ColorPickerScreen() {
     const [currentColor, setCurrentColor] = useState('#ff0000');
@@ -137,9 +137,7 @@ export default function ColorPickerScreen() {
 
             </View>
             <View style={{ marginLeft: 50 }}></View>
-            <ASdads
-                greeting={mainS}
-            />
+            <Saturation greeting={mainS} />
         </View>
     )
 }
