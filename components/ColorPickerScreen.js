@@ -136,7 +136,7 @@ export default function ColorPickerScreen() {
 
 
             </View>
-            <View style={{ marginLeft: 70 }}></View>
+            <View style={{ marginLeft: 50 }}></View>
             <ASdads
                 greeting={mainS}
             />
